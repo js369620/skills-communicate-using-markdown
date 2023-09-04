@@ -16,3 +16,9 @@ javascript
 var myVar = "Hello, world!";
 
 Added javascript codeline 
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+Added task list
