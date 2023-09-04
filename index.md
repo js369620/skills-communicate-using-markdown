@@ -7,3 +7,7 @@
 
 
 Added 3 headers of varying sizes
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
+
+Added image
